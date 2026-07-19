@@ -1,0 +1,23 @@
+{
+  "name": "ことば10 - 単語学習",
+  "short_name": "ことば10",
+  "description": "中国語・韓国語・エスペラント語・フィンランド語を10問ずつ学ぶ単語アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#315efb",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
